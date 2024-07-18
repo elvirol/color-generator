@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 3s ease;
+}
+
+h2 {
+    background: black;
+    padding: 2rem 4rem;
+    font-size: 2rem;
+    color: white;
+    border-radius: 1rem;
+}
